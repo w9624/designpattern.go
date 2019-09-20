@@ -1,0 +1,2 @@
+# designpattern.go
+go designpattern 
